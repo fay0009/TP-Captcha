@@ -36,5 +36,6 @@
 	imagepng($image);
 
 	imagedestroy($image);
+	
 
 ?>
